@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishka622&label=Profile%20views&color=0e75b6&style=flat" alt="kanishka622" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanishka622" alt="kanishka622" /></a> </p>
-
 - 🌱 I’m currently learning **🌱 I’m currently improving my Power BI dashboard storytelling and DAX skills.**
 
 - 👯 I’m looking to collaborate on **data analysis projects, dashboards, and business intelligence solutions.**
